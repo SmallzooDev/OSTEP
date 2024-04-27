@@ -13,6 +13,7 @@ int main(int argc, char *argv[]) {
   } else if (rc == 0) {
     printf("Hello");
   } else {
+    // 이것 밖에 생각이 안난다 ㅋㅋ
     sleep(1);
     printf("Goodbye\n");
   }
