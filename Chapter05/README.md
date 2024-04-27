@@ -17,3 +17,5 @@
 <img width="1072" alt="Screenshot 2024-04-27 at 6 41 59 PM" src="https://github.com/SmallzooDev/OSTEP/assets/121675217/134e636d-a43d-4929-b476-dc9d281a817b">
 
 파라미터가 다름, 환경변수 배열 등
+
+**5번 : wait ()를 사용하여 자식 프로세스가 종료되기를 기다리는 프로그램을 작성하라. wait()가 반환하는 것은 무엇인가? 자식 프로세스가 wait ()를 호출하면 어떤 결과가 발생하는가?**
