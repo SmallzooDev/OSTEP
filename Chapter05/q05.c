@@ -20,10 +20,11 @@ int main() {
     // 부모 프로세스
     printf("Parent process: PID = %d\n", getpid());
     printf("Parent process: Waiting for child to exit...\n");
+    // pid_t wait(int *status); wait의 반환 값은 종료된 자식 프로세스의 PID
+    // 이렇게 참조를 넘겨주면 자식 프로세스의 종료 상태를 저장할 수 있음
     wait(&status); // 자식 프로세스가 종료될 때까지 대기
     printf("Parent process: Child exited with status %d\n", status);
   }
 
   return 0;
 }
-
