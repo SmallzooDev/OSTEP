@@ -13,8 +13,7 @@
 
 ㅋㅋㅋㅋㅋㅋㅋ.... 이것밖에 생각안난다
 
-**4번 : fork ()를 호출하고 /bin/ls를 실행하기 위하여 exec() 계열의 함수를 호출 하는 프로그램을 작성하라.exec()의 변형 execl(), execle(), execlP(), execv (), execvp (), execve () 모두를 사용할 수 있는지 시도해 보라.**
-기본적으 로는 동일한 기능을 수행하는 시스템 콜에 여러 변형이 있는 이유를 생각해 보라.
+**4번 : fork ()를 호출하고 /bin/ls를 실행하기 위하여 exec() 계열의 함수를 호출 하는 프로그램을 작성하라.exec()의 변형 execl(), execle(), execlP(), execv (), execvp (), execve () 모두를 사용할 수 있는지 시도해 보라. 기본적으 로는 동일한 기능을 수행하는 시스템 콜에 여러 변형이 있는 이유를 생각해 보라.**
 <img width="1072" alt="Screenshot 2024-04-27 at 6 41 59 PM" src="https://github.com/SmallzooDev/OSTEP/assets/121675217/134e636d-a43d-4929-b476-dc9d281a817b">
 
 파라미터가 다름, 환경변수 배열 등
