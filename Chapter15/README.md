@@ -5,3 +5,5 @@
 ![Screenshot 2024-06-25 at 9 03 06 PM](https://github.com/SmallzooDev/OSTEP/assets/121675217/9f3e8fba-2003-4210-9c40-10476366983d)
 ![Screenshot 2024-06-25 at 9 33 38 PM](https://github.com/SmallzooDev/OSTEP/assets/121675217/78f43eff-479d-4083-9aae-8db4d42ec561)
 ![Screenshot 2024-06-25 at 10 21 34 PM](https://github.com/SmallzooDev/OSTEP/assets/121675217/2aa5669c-9207-4c89-9200-146d28b02f98)
+![Screenshot 2024-06-26 at 12 24 39 AM](https://github.com/SmallzooDev/OSTEP/assets/121675217/b13cb846-92bc-4f93-b96b-4bda4af56528)
+![Screenshot 2024-06-26 at 12 24 45 AM](https://github.com/SmallzooDev/OSTEP/assets/121675217/937cba7b-b60d-4434-8355-27281b1529e9)
